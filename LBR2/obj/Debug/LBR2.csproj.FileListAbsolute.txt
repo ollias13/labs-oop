@@ -1,0 +1,10 @@
+C:\Users\mrden\source\repos\LBR2\bin\Debug\LBR2.exe.config
+C:\Users\mrden\source\repos\LBR2\bin\Debug\LBR2.exe
+C:\Users\mrden\source\repos\LBR2\bin\Debug\LBR2.pdb
+C:\Users\mrden\source\repos\LBR2\obj\Debug\LBR2.csproj.AssemblyReference.cache
+C:\Users\mrden\source\repos\LBR2\obj\Debug\LBR2.Form1.resources
+C:\Users\mrden\source\repos\LBR2\obj\Debug\LBR2.Properties.Resources.resources
+C:\Users\mrden\source\repos\LBR2\obj\Debug\LBR2.csproj.GenerateResource.cache
+C:\Users\mrden\source\repos\LBR2\obj\Debug\LBR2.csproj.CoreCompileInputs.cache
+C:\Users\mrden\source\repos\LBR2\obj\Debug\LBR2.exe
+C:\Users\mrden\source\repos\LBR2\obj\Debug\LBR2.pdb
