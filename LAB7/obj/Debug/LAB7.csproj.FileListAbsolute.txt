@@ -1,0 +1,26 @@
+C:\Users\mrden\source\repos\LAB7\bin\Debug\LAB7.exe.config
+C:\Users\mrden\source\repos\LAB7\bin\Debug\LAB7.exe
+C:\Users\mrden\source\repos\LAB7\bin\Debug\LAB7.pdb
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.csproj.AssemblyReference.cache
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.Form1.resources
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.Properties.Resources.resources
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.csproj.GenerateResource.cache
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.csproj.CoreCompileInputs.cache
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.exe
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.pdb
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.blank.resources
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.FindForm.resources
+C:\Users\mrden\source\repos\LAB7\obj\Debug\LAB7.About.resources
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\bin\Debug\LAB7.exe.config
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\bin\Debug\LAB7.exe
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\bin\Debug\LAB7.pdb
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.csproj.AssemblyReference.cache
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.About.resources
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.blank.resources
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.FindForm.resources
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.Form1.resources
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.Properties.Resources.resources
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.csproj.GenerateResource.cache
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.csproj.CoreCompileInputs.cache
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.exe
+C:\Users\mrden\OneDrive\Рабочий стол\LAB7\obj\Debug\LAB7.pdb
