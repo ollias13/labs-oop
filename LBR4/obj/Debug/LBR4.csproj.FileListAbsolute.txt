@@ -1,0 +1,10 @@
+C:\Users\mrden\source\repos\LBR4\bin\Debug\LBR4.exe.config
+C:\Users\mrden\source\repos\LBR4\bin\Debug\LBR4.exe
+C:\Users\mrden\source\repos\LBR4\bin\Debug\LBR4.pdb
+C:\Users\mrden\source\repos\LBR4\obj\Debug\LBR4.csproj.AssemblyReference.cache
+C:\Users\mrden\source\repos\LBR4\obj\Debug\LBR4.Form1.resources
+C:\Users\mrden\source\repos\LBR4\obj\Debug\LBR4.Properties.Resources.resources
+C:\Users\mrden\source\repos\LBR4\obj\Debug\LBR4.csproj.GenerateResource.cache
+C:\Users\mrden\source\repos\LBR4\obj\Debug\LBR4.csproj.CoreCompileInputs.cache
+C:\Users\mrden\source\repos\LBR4\obj\Debug\LBR4.exe
+C:\Users\mrden\source\repos\LBR4\obj\Debug\LBR4.pdb
