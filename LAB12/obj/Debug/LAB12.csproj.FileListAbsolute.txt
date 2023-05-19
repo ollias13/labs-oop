@@ -1,0 +1,13 @@
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\bin\Debug\LAB12.exe.config
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\bin\Debug\LAB12.exe
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\bin\Debug\LAB12.pdb
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\LAB12.csproj.AssemblyReference.cache
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\Interop.LCC11.dll
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\LAB12.csproj.ResolveComReference.cache
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\LAB12.Form1.resources
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\LAB12.Properties.Resources.resources
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\LAB12.csproj.GenerateResource.cache
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\LAB12.csproj.CoreCompileInputs.cache
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\LAB12.exe
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB12\obj\Debug\LAB12.pdb

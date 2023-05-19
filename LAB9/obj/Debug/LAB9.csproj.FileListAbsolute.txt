@@ -1,0 +1,10 @@
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\bin\Debug\LAB9.exe.config
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\bin\Debug\LAB9.exe
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\bin\Debug\LAB9.pdb
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\obj\Debug\LAB9.csproj.AssemblyReference.cache
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\obj\Debug\LAB9.Form1.resources
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\obj\Debug\LAB9.Properties.Resources.resources
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\obj\Debug\LAB9.csproj.GenerateResource.cache
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\obj\Debug\LAB9.csproj.CoreCompileInputs.cache
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\obj\Debug\LAB9.exe
+C:\Users\mrden\OneDrive\Рабочий стол\csharp\LAB9\obj\Debug\LAB9.pdb
