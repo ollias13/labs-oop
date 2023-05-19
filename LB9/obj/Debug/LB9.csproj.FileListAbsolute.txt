@@ -1,0 +1,10 @@
+C:\Users\mrden\source\repos\LB9\obj\Debug\LB9.csproj.AssemblyReference.cache
+C:\Users\mrden\source\repos\LB9\obj\Debug\LB9.Form1.resources
+C:\Users\mrden\source\repos\LB9\obj\Debug\LB9.Properties.Resources.resources
+C:\Users\mrden\source\repos\LB9\obj\Debug\LB9.csproj.GenerateResource.cache
+C:\Users\mrden\source\repos\LB9\obj\Debug\LB9.csproj.CoreCompileInputs.cache
+C:\Users\mrden\source\repos\LB9\bin\Debug\LB9.exe.config
+C:\Users\mrden\source\repos\LB9\bin\Debug\LB9.exe
+C:\Users\mrden\source\repos\LB9\bin\Debug\LB9.pdb
+C:\Users\mrden\source\repos\LB9\obj\Debug\LB9.exe
+C:\Users\mrden\source\repos\LB9\obj\Debug\LB9.pdb
