@@ -1,0 +1,10 @@
+C:\Users\mrden\source\repos\LAB19\bin\Debug\LAB19.exe.config
+C:\Users\mrden\source\repos\LAB19\bin\Debug\LAB19.exe
+C:\Users\mrden\source\repos\LAB19\bin\Debug\LAB19.pdb
+C:\Users\mrden\source\repos\LAB19\obj\Debug\LAB19.csproj.AssemblyReference.cache
+C:\Users\mrden\source\repos\LAB19\obj\Debug\LAB19.MainForm.resources
+C:\Users\mrden\source\repos\LAB19\obj\Debug\LAB19.Properties.Resources.resources
+C:\Users\mrden\source\repos\LAB19\obj\Debug\LAB19.csproj.GenerateResource.cache
+C:\Users\mrden\source\repos\LAB19\obj\Debug\LAB19.csproj.CoreCompileInputs.cache
+C:\Users\mrden\source\repos\LAB19\obj\Debug\LAB19.exe
+C:\Users\mrden\source\repos\LAB19\obj\Debug\LAB19.pdb
