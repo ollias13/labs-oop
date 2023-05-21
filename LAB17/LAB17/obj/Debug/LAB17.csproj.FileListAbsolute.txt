@@ -1,0 +1,10 @@
+C:\Users\mrden\source\repos\LAB17\bin\Debug\LAB17.exe.config
+C:\Users\mrden\source\repos\LAB17\bin\Debug\LAB17.exe
+C:\Users\mrden\source\repos\LAB17\bin\Debug\LAB17.pdb
+C:\Users\mrden\source\repos\LAB17\obj\Debug\LAB17.csproj.AssemblyReference.cache
+C:\Users\mrden\source\repos\LAB17\obj\Debug\LAB17.Form1.resources
+C:\Users\mrden\source\repos\LAB17\obj\Debug\LAB17.Properties.Resources.resources
+C:\Users\mrden\source\repos\LAB17\obj\Debug\LAB17.csproj.GenerateResource.cache
+C:\Users\mrden\source\repos\LAB17\obj\Debug\LAB17.csproj.CoreCompileInputs.cache
+C:\Users\mrden\source\repos\LAB17\obj\Debug\LAB17.exe
+C:\Users\mrden\source\repos\LAB17\obj\Debug\LAB17.pdb
